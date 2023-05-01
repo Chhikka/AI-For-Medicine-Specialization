@@ -6,7 +6,10 @@ AI is transforming the practice of medicine. It’s helping doctors diagnose pat
 - Diagnose diseases from x-rays and 3D MRI brain images
 - Predict patient survival rates more accurately using tree-based models
 - Estimate treatment effects on patients using data from randomized trials
-- Automate the task of labeling medical datasets using natural language processing
+- Automate the task of labeling medical datasets using natural language processing 
+
+<br></p>
+
 
 Course 1: AI For Medical Diagnosis
 How can AI be applied to medical imaging to diagnose diseases? In this first course, you’ll learn about the nuances of working with both 2D and 3D medical image data, for multi-class classification and image segmentation. You’ll then apply what you’ve learned to classify diseases in x-ray images and segment tumors in 3D MRI brain images. Finally, you’ll learn how to properly evaluate the performance of your models.
