@@ -1,4 +1,4 @@
-# AI-for-medicine-Specialization
+# AI-for-medicine-specialization
 
 
 
