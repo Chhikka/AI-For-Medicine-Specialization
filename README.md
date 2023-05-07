@@ -1,4 +1,5 @@
-# AI-for-medical-diagnosis
+# AI-for-medicine-Specialization
+
 
 
 AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments. In this Specialization, you’ll gain practical experience applying machine learning to concrete problems in medicine. You’ll learn how to:
